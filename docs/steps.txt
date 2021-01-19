@@ -1,0 +1,5 @@
+- Talk about the general application requirements
+- Go over mockups and API contracts
+- Introduce them to the starter codebase
+- Create a feature branch
+- Start building
