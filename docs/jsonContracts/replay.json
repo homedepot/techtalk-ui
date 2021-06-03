@@ -2,24 +2,24 @@
     "title": "Getting Started with Kubernetes",
     "presentor": "Michael Banks",
     "date" : "2020-11-15T02:39:15+0000",
-    "videoLink" : "http://www.youtube.com/v/key1"
+    "videoLink" : "https://www.youtube.com/embed/jMtG9SyZfAc"
 },
 {
     "title": "Load Testing with K6",
     "presentor": "Seth Green",
     "date" : "2020-12-13T02:39:15+0000",
-    "videoLink" : "http://www.youtube.com/v/key2"
+    "videoLink" : "https://www.youtube.com/embed/jMtG9SyZfAc"
 },
 {
     "title": "Introduction to Data Science",
     "presentor": "Elmer Fudd",
     "date" : "2019-11-01T02:39:15+0000",
-    "videoLink" : "http://www.youtube.com/v/key3"
+    "videoLink" : "https://www.youtube.com/embed/jMtG9SyZfAc"
 },
 {
     "title": "IaaS, PaaS and SaaS",
     "presentor": "Doctor Seuss",
     "date" : "2021-08-15T02:39:15+0000",
-    "videoLink" : "http://www.youtube.com/v/key4"
+    "videoLink" : "https://www.youtube.com/embed/jMtG9SyZfAc"
 }
 ]
