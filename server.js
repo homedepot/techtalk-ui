@@ -1,7 +1,9 @@
 const express = require("express");
 const fs = require("fs");
+const cors = require("cors")
 const app = express();
 const port = 8080;
+app.use(cors());
 
 const liveData = JSON.parse(fs.readFileSync("docs/jsonContracts/live.json"));
 const replayData = JSON.parse(
